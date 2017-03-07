@@ -1,0 +1,5 @@
+MD2020 - This one was done for Oz. Primary as a hobby.  
+ - You will need a bigger chip from T.   Suggested 8269.  8267 can barely make it primary for the SRAM size. 
+   They are pin to pin as far as I know. 
+
+
