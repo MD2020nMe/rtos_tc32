@@ -9,8 +9,8 @@ added context swith code.  more coming in the next few days.
 MD
 
 This is a draft skeleton of the TC32 RTOS code and sample drivers
-TC32 is a 32 bit MCU designed in house
-You will need the full toolchain and SDK.  We also offer Eclipse plugin and OpenOCD debugger. 
+
+You will need the full toolchain and SDK.  Perhaps OpenOCD. 
 
 Some limitation at this stage
 - newlib support is limited.  
